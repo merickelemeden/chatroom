@@ -13,7 +13,7 @@ This is a chatroom application that allows users to communicate in a shared chat
 ## 🛠 Installation
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/chatroom.git
+git clone https://github.com/merickelemeden/chatroom.git
 cd chatroom
 ```
 ### **2. Compile the Server & Client**
