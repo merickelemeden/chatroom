@@ -58,9 +58,6 @@ gcc client.c -o client
 /demote <username>  # Revoke admin privileges
 ```
 
-## 📄 Documentation
-For a detailed guide on how to use the application, see the [User Guide](docs/USAGE.md).
-
 ## 📜 License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
